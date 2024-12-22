@@ -1,0 +1,14 @@
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\bin\Debug\net9.0\BatteryApp.exe
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\bin\Debug\net9.0\BatteryApp.deps.json
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\bin\Debug\net9.0\BatteryApp.runtimeconfig.json
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\bin\Debug\net9.0\BatteryApp.dll
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\bin\Debug\net9.0\BatteryApp.pdb
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.AssemblyInfoInputs.cache
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.AssemblyInfo.cs
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.csproj.CoreCompileInputs.cache
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.dll
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\refint\BatteryApp.dll
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.pdb
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\BatteryApp.genruntimeconfig.cache
+D:\PROGRAMS\Desktop\www\C#\BatteryApp\obj\Debug\net9.0\ref\BatteryApp.dll
